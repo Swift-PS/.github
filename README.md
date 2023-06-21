@@ -35,15 +35,6 @@
 
 ## ✅ 문제 목록
 
-- 0 주차 :
-[Xcode] Swift 알고리즘 - Xcode 환경 세팅
-https://jeong9216.tistory.com/54
-
-Swift로 코딩 테스트 준비하면서 도움 될만한 잡다한 지식
-https://velog.io/@eunsung-dev/Swift%EB%A1%9C-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84%ED%95%98%EB%A9%B4%EC%84%9C-%EB%8F%84%EC%9B%80-%EB%90%A0%EB%A7%8C%ED%95%9C-%EC%9E%A1%EB%8B%A4%ED%95%9C-%EC%A7%80%EC%8B%9D
-
-[iOS] swift 알고리즘, 코딩테스트에 필요한 tip 정리
-  https://velog.io/@leedool3003/iOS-swift-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-Tip-%EC%A0%95%EB%A6%AC
-
+- 0 주차 : [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851), [Xcode 환경 세팅] ([링크](https://jeong9216.tistory.com/54)) , [Swift로 코딩 테스트 준비하면서 도움 될만한 잡다한 지식] (https://velog.io/@eunsung-dev/Swift%EB%A1%9C-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84%ED%95%98%EB%A9%B4%EC%84%9C-%EB%8F%84%EC%9B%80-%EB%90%A0%EB%A7%8C%ED%95%9C-%EC%9E%A1%EB%8B%A4%ED%95%9C-%EC%A7%80%EC%8B%9D) , [코딩테스트에 필요한 tip 정리] (https://velog.io/@leedool3003/iOS-swift-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-Tip-%EC%A0%95%EB%A6%AC) , 
   
 
